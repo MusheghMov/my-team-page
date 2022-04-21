@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">404 not found</h1>
+<h1 align="center">My Team Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -12,11 +12,11 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/MusheghMov/404-not-found">
+    <a href="https://github.com/MusheghMov/my-team-page">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
       Challenge
     </a>
   </h3>
@@ -43,7 +43,7 @@
 
 - JavaScript
 - HTML
-- CSS
+- SCSS
 
 ## Features
 
